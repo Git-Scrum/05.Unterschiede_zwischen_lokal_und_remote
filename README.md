@@ -5,7 +5,7 @@
 
   
 
-1.  Erstelle als erstes ein erklärenden Text zu dem oberen Video oder erstelle ein besseres Video zu dem aktuellen Thema.
+1.  Erstelle als erste Teilnehmerin einen erklärenden Text zu dem oberen Video oder erstelle ein besseres Video zu dem aktuellen Thema.
      
 ![Screenshot 2023-04-19 152118](https://user-images.githubusercontent.com/78038701/233102245-ca376faf-63a9-4ade-b7f9-3ba1a253b1c2.jpg)
 
